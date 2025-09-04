@@ -92,6 +92,7 @@ Built with **OpenCV, Mediapipe, and Autopy**, this project turns your webcam int
 
 
 ✅ If you face issues, ensure **Python & pip version = 3.8.9**. Otherwise, errors may appear.
+
 💌 For help, contact: **[princekothiya1604@gmail.com](mailto:princekothiya1604@gmail.com)**
 
 ---
