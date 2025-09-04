@@ -1,0 +1,23 @@
+# ===============================================================
+# 📌 AI Virtual Mouse Using Hand Gestures - Requirements
+# ===============================================================
+# This project supports ONLY Python 3.8.9 and pip 3.8.9.
+# Using other versions may cause compatibility issues or errors.
+#
+# ✅ Recommended Environment:
+#    - Python 3.8.9
+#    - pip 20+ (with Python 3.8.9)
+#
+# 🔑 Keywords: AI Virtual Mouse, Hand Gesture Recognition, OpenCV, Mediapipe, Python Projects
+# ===============================================================
+
+opencv-python==4.8.1.78      # Computer vision and image processing
+mediapipe==0.9.0.1           # Hand tracking and gesture recognition
+autopy==4.0.0                # Control mouse movement and clicks
+numpy==1.24.3                # Numerical computations
+
+# ===============================================================
+# ⚠️ Note:
+# Please make sure your system uses Python 3.8.9 + pip 3.8.9.
+# Other versions are NOT guaranteed to work and may show errors.
+# ===============================================================
