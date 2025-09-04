@@ -187,7 +187,6 @@ AI-Virtual-Mouse/
 ## 📊 Workflow (Easy-to-Understand Diagram)
 
 ![Workflow Diagram](./docs/virtual-mouse-flow.png)  
-![AI Virtual Mouse using Hand Gestures Flowchart](./virtual%20mouse.png)
 
 
 **Simple Steps in Workflow:**
